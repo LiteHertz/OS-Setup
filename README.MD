@@ -1,6 +1,8 @@
 # Os-Setup repo
 
-## Install
+## All systems
+
+### Install
 
 - QCAD
 - Spotify
@@ -31,11 +33,13 @@
 - Zotero
 - SyncThing
 
-Change :
+### Change
 
 - Set Wallpapers to those of OS DATA Folder
 
 ---
+
+## Windows
 
 ### Install (Windows)
 
@@ -56,6 +60,8 @@ Change :
 - Set TranslucentTB
 
 ---
+
+## Linux
 
 ### Change (Linux)
 
