@@ -46,6 +46,17 @@
 - PowerToys
 - Devtoys
 - TranslucentTB (See [settings.json](https://github.com/LiteHertz/OS-Setup/blob/main/Windows%2011/TranslucentTB/settings.json) in TranslucentTB folder)
+- AutoHotkey ([Media Skip.ahk](https://github.com/LiteHertz/OS-Setup/blob/main/Windows%2011/Media%20Skip.ahk))
+
+    > Win + R
+    >
+    > `shell:startup`
+    >
+    > Enter
+    >
+    > Right click -> New -> Shortcut
+    >
+    > Browse to `Windows 11\Media Skip.ahk` script file.
 
 ### Change (Windows)
 
